@@ -2,5 +2,6 @@
 
 Oy humans!
 
-This is Shawkat Sujon and i know nothing about github till now!
+This is just a rubbish blender project
+
 
